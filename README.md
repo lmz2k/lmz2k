@@ -5,8 +5,8 @@
 ## Hi everyone 👋, 
 I'm Gabriel Lima, from Brazil, student of computer engineering and work as a software developer at https://www.incodde.com/
 
-- 🔭 I’m currently working on JavaScript, dart
-- 🌱 I'm currently learning how to be better than yesterday,as human, as professional
+- 🔭 I’m currently working on JavaScript!
+- 🌱 I'm currently learning how to be better than yesterday,as human, as professional!
 - 💬 Ask me about: Mobile development, Web development, and counter-strike!
 - ⚡ Technologies: ReactJS, React-Native, NodeJS, Flutter, SQL, Python, Java, C/C++ ....
 
