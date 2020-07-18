@@ -4,13 +4,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieltsutomu@gmail.com)](mailto:danieltsutomu@gmail.com)
 [![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)](https://www.codewars.com/users/TsutomuObara/badges/micro)
 ## Hi 👋, 
-I'm Gabriel Lima, from brazil, student of computer engineering and work as a software developer at https://www.incodde.com/
+I'm Gabriel Lima, from Brazil, student of computer engineering and work as a software developer at https://www.incodde.com/
 
-- 🔭 I’m currently working on JavaScript and Ruby apps/systems
-- 🌱 I’m currently learning IA,Ruby,DevOps and of course JS improvments
-- 💬 Ask me about: tech, karate, anime and a little bit about investments.
--  ⚡ Technologies: React, Node, Adonis, React-Native
-
+- 🔭 I’m currently working on JavaScript, dart
+- 🌱 I'm currently learning how to be better than yesterday,as human, as professional
+- 💬 Ask me about: Mobile development, Web development, and counter-strike!
+- ⚡ Technologies: ReactJS, React-Native, NodeJS, Flutter, SQL, Python, Java, C/C++ ....
+:star2:
 "Do not expect from others what you expect of yourself." 
 
 <!--
