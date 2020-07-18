@@ -1,4 +1,5 @@
 # Gabriel Lima 
+[![Twitter Badge](https://img.shields.io/badge/-@Hlmzgabriel-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lmzgabriel)](
 [![Linkedin Badge](https://img.shields.io/badge/-lmzgabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmzgabriel/)](https://www.linkedin.com/in/danielobara/)
 [![Gmail Badge](https://img.shields.io/badge/-gabriel1997lima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel1997lima@gmail.com)](mailto:danieltsutomu@gmail.com)
 
