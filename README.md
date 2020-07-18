@@ -1,17 +1,16 @@
 # Gabriel Lima 
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielobara/)](https://www.linkedin.com/in/danielobara/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10564639/daniel-obara)](https://stackoverflow.com/users/10564639/daniel-obara)
-[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieltsutomu@gmail.com)](mailto:danieltsutomu@gmail.com)
-[![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)](https://www.codewars.com/users/TsutomuObara/badges/micro)
-## Hi 👋, 
+[![Linkedin Badge](https://img.shields.io/badge/-lmzgabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmzgabriel/)](https://www.linkedin.com/in/danielobara/)
+[![Gmail Badge](https://img.shields.io/badge/-gabriel1997lima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel1997lima@gmail.com)](mailto:danieltsutomu@gmail.com)
+
+## Hi everyone 👋, 
 I'm Gabriel Lima, from Brazil, student of computer engineering and work as a software developer at https://www.incodde.com/
 
 - 🔭 I’m currently working on JavaScript, dart
 - 🌱 I'm currently learning how to be better than yesterday,as human, as professional
 - 💬 Ask me about: Mobile development, Web development, and counter-strike!
 - ⚡ Technologies: ReactJS, React-Native, NodeJS, Flutter, SQL, Python, Java, C/C++ ....
-:star2:
-"Do not expect from others what you expect of yourself." 
+
+
 
 <!--
 **lmz2k/lmz2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
