@@ -1,1 +1,1 @@
-sad
+{"matchid":"-MEDoTs9jZBcTjJRZh-s","num_maps":1,"players_per_team":10,"min_players_to_ready":10,"min_spectators_to_ready":0,"skip_veto":true,"veto_first":"team1","side_type":"standard","maplist":["de_nuke"],"team1":{"name":"teste2","tag":"CornoManso","flag":"BR","players":{"76561198450222705":"Liminha"}},"team2":{"name":"teste","tag":"CornoBravo","flag":"BR","players":{"76561198065528690":"gLima.sad"}},"cvars":{"hostname":"FastTap - TakgotaÂ® Oficial BETA/ Server SP - #672"}}
