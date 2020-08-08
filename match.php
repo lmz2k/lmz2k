@@ -1,3 +1,6 @@
+<?php
+
+echo <<<EOF
 {
   "matchid": "example_match",
   "num_maps": 1,
@@ -44,3 +47,5 @@
     "hostname": "FUNCIONOU KRAI #1"
   }
 }
+EOF;
+?>
