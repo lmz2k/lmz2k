@@ -1,3 +1,5 @@
+<?php
+
 echo <<<EOF
 {
   "matchid": "example_match",
@@ -44,3 +46,4 @@ echo <<<EOF
   }
 }
 EOF;
+?>
