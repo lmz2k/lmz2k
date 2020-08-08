@@ -29,7 +29,7 @@ echo <<<EOF
     "players": {
       "STEAM_0:0:60640641": "george",
       "STEAM_0:1:104173761" : "praxedes",
-			"STEAM_0:0:8014599" : "SpiderManBR"
+      "STEAM_0:0:8014599" : "SpiderManBR"
     }
   },
   "team2": {
@@ -39,8 +39,7 @@ echo <<<EOF
     "logo": "fntc",
     "players": {
       "STEAM_0:0:52631481": "gLima",
-      "STEAM_0:1:25098971" "dudu"
-      
+      "STEAM_0:1:25098971" "dudu",
     }
   },
   "cvars": {
