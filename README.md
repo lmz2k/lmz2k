@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabriel1997lima@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel1997lima@gmail.com)](mailto:gabriel1997lima@gmail.com)
 
 ## Hi everyone 👋, 
-I'm Gabriel Lima, from Brazil, student of computer engineering and work as a software developer at https://www.incodde.com/
+I'm Gabriel Lima, from Brazil, student of computer engineering and work as a software developer at https://escala.app/
 
 - 🔭 I’m currently working on JavaScript!
 - 🌱 I'm currently learning how to be better than yesterday,as human, as professional!
