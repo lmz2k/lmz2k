@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lmzgabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/twitter.svg" alt="lmzgabriel" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/lmzgabriel" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="lmzgabriel" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/lmzgabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/linkedin.svg" alt="lmzgabriel" height="30" width="30" /></a>
 <a href="https://instagram.com/lmzgabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/leftabn/leftabn/master/Icons/instagram.svg" alt="lmzgabriel" height="30" width="30" /></a>
 </p>
 
