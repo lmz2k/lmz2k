@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Escala](http://escala-app.com/)
 
-- 🔭 I’m currently working on [FastTap](https://fasttap.club/)
+- 🔭 I’m currently leading on [FastTap](https://fasttap.club/)
 
 - 🌱 I’m currently learning **how to be better than yesterday,as human, as professional!**
 
