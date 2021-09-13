@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Gabriel, sou um <strong>Engenheiro de Software</strong> apaixonado por desenvolvimento web..<br>
+  Olá, meu nome é Gabriel, sou um <strong>Engenheiro de Software</strong> apaixonado por desenvolvimento web.<br>
   Atualmente trabalhando na HR Teach Escala como <strong>Full Stack</strong> e <strong>Tech Leader / CTO</strong> na FastTap
 </p>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Se você quiser saber sobre backend, frontend, mobile ou CSGO? está no perfil certo ⤵️
+  💌 Se você quiser saber sobre backend, frontend, mobile ou CSGO? Basta entrar em contato comigo por ⤵️
 </p>
 
 <p align="left">
