@@ -27,5 +27,3 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lmzgabriel"/></a>
 </p>  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lmz2k&" alt="lmz2k" /></p>
