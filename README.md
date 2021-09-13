@@ -18,12 +18,12 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:glimasdev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=glimasdev@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/lmzgabriel" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmzgabriel" /></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/lmzgabriel" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lmzgabriel"/></a>
 </p>  
