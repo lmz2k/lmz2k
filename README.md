@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, meu nome é Gabriel, sou um <strong>Engenheiro de Software</strong> apaixonado por desenvolvimento web.<br>
-  Atualmente trabalhando na [Capyba](https://capyba.com) como <strong>Engenheiro de Software Pleno</strong> e <strong>Tech Leader / CTO</strong> na FastTap
+  Atualmente trabalhando na Capyba como <strong>Engenheiro de Software Pleno</strong> e <strong>Tech Leader / CTO</strong> na FastTap.
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Se você quiser saber sobre backend, frontend, mobile ou CSGO? Basta entrar em contato comigo por ⤵️
+  💌 Vamos trocar figurinhas sobre desenvolvimento, ou CSGO ? ⤵️
 </p>
 
 <p align="left">
