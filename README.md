@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, meu nome é Gabriel, sou um <strong>Engenheiro de Software</strong> apaixonado por desenvolvimento web.<br>
-  Atualmente trabalhando na HR Tech Escala como <strong>Full Stack</strong> e <strong>Tech Leader / CTO</strong> na FastTap
+  Atualmente trabalhando na [Capyba](https://capyba.com) como <strong>Engenheiro de Software Pleno</strong> e <strong>Tech Leader / CTO</strong> na FastTap
 </p>
 
 <p align="left">
