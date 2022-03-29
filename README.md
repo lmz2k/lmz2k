@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/lmzgabriel" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmzgabriel" /></a>
 
-  <a href="https://www.instagram.com/lmzgabriel" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lmzgabriel"/></a>
+  <a href="https://www.instagram.com/glimadev" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/glimadev"/></a>
 </p>  
