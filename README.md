@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Vamos trocar figurinhas sobre desenvolvimento, ou CSGO ? ⤵️
+  💌 Vamos trocar figurinhas? ⤵️
 </p>
 
 <p align="left">
