@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Php, Java, Javascript</strong>
+  🦄 Linguagens: <strong>Php, Java, Javascript/Typescript, Python</strong>
 </p>
 
 <p align="left">
-  💼 Frameworks: <strong>Laravel, Sprinboot, NestJS, ReactJs, React-Native</strong>
+  💼 Frameworks: <strong>Laravel, Springboot, NestJS/Express, Django, ReactJs, React-Native</strong>
 </p>
 
 <p align="left">
