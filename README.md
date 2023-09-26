@@ -2,15 +2,15 @@
 
 <p align="left"> 
   Olá, meu nome é Gabriel, sou um <strong>Engenheiro de Software</strong> apaixonado por desenvolvimento web.<br>
-  Atualmente trabalhando na Capyba como <strong>Engenheiro de Software Pleno</strong> e <strong>Tech Leader / CTO</strong> na FastTap.
+  Atualmente trabalhando na Capyba como <strong>Engenheiro de Software Senior</strong>.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Php, Javascript, Dart e Python.</strong>
+  🦄 Linguagens: <strong>Php, Java, Javascript</strong>
 </p>
 
 <p align="left">
-  💼 Frameworks: <strong>ReactJs, React-Native, NodeJS, Laravel e Flutter</strong>
+  💼 Frameworks: <strong>Laravel, Sprinboot, NestJS, ReactJs, React-Native</strong>
 </p>
 
 <p align="left">
