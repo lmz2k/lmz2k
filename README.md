@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Gabriel, sou um <strong>Engenheiro de Software</strong> apaixonado por desenvolvimento web.<br>
+  Olá, meu nome é Gabriel, sou um <strong>Engenheiro de Software</strong> apaixonado por desenvolvimento web, com foco em Backend.<br>
   Atualmente trabalhando na Capyba como <strong>Engenheiro de Software Senior</strong>.
 </p>
 
